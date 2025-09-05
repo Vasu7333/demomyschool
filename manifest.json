@@ -1,0 +1,20 @@
+{
+"name": "My School",
+  "short_name": "MySchool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczMhsDIvjUOEgsDvtmqm4x7M30BH6O_fvcZpZlOQuj7aTOrtZYrUzswhJp9yZrhLtHKjie8KLCj3t9kcoIsJDdfkcWzeuYeoEV2uIoZDEoFQhZgnoZs=s192-p-k",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczMupKXOxd4lCWLx4EFMvV9GrSSG3ein9ZsWjd0avYKfogVHoa97WuGmsn637oxvn4rXSDep2udp5EqIWgiEf_cFUQrRsEYkFdl8XlK6kKIsBdBH02M=w2400",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
