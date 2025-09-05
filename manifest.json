@@ -1,5 +1,5 @@
 {
-  "name": "mySchool",
+"name": "mySchool",
   "short_name": "mySchool",
   "start_url": "/",
   "display": "standalone",
@@ -7,12 +7,12 @@
   "theme_color": "#2196f3",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/pw/AP1GczPZobcCcQqKTiebr_tIyCdmm2U2vHHYaNFNYzl3LVXbg8GLhUwUXE_pKir_kXVll7vudS539lRTWwCuWUaxhQElsYudsaN23SNYozh126ZGkZUd_F0=s192-p-k",
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://lh3.googleusercontent.com/pw/AP1GczNJeD7nTs3mQ1gwqFE1K6q7Zg2yIp0WpJGMwfk6i2h7ZjlkODccvErB-8t3p1_0aT4yk5ixbTizPslYFRD3fXy3Y2M29DykUO3O-KDMB-NyKaaSCYI=w2400",
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4d6.png",
       "sizes": "512x512",
       "type": "image/png"
     }
